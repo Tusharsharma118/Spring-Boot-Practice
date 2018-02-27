@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: TestSpringBootProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: tsharma
+Implementation-Vendor-Id: com.mine.project
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/TestSpringBo
+ otProject/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
